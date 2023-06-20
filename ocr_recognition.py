@@ -45,5 +45,3 @@ def number_plate_recognition(file):
 
     cv2.waitKey(0)
     return label
-
-# print(number_plate_recognition('runs\detect\exp5\crops\\number_plate\\PM1.jpg'))
