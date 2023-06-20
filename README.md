@@ -37,7 +37,7 @@ This project is a working deep learning model which can detect license plates an
   <li> To test this model, you will have first clone the repository mentioned above and include the files mentioned below into the cloned repository.
   <li> You can download my custom trained weights for this model from [custom-weights](https://drive.google.com/file/d/1-VNWbHFKWhwuIJGIQeHu48iegcqX4T4Z/view?usp=sharing)
   <li> You can find inference on a test image by the model in this repository (test-image.jpg).
-  <li> This repo also contains \textbf{training-statistics} folder which has the statistics , graphs of the training process.
+  <li> This repo also contains training-statistics folder which has the statistics , graphs of the training process.
 </ol>
 
 ## Files to include 
